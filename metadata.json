@@ -1,0 +1,9 @@
+{
+  "name": "Hospital IA - SHARED VERSION",
+  "description": "Uma interface de assistente médico virtual que utiliza a câmera e o microfone do usuário para fornecer consultas autônomas com uma IA avançada.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
